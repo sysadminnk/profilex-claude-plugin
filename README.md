@@ -10,4 +10,4 @@ Verifications are billed to your ProfileX account (UAT calls use free UAT pulls)
 On a headless Linux server: `ssh -t server 'claude mcp login profilex --no-browser'`, open
 the printed URL on any device, sign in, and paste the final URL back.
 
-Support: support@neokred.tech · Privacy: https://www.neokred.tech/privacy-policy
+Support: support@neokred.tech · Privacy: https://profilex-client.neokred.tech/docs/mcp#privacy

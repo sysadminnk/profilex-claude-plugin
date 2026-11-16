@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "profilex": {
+      "type": "http",
+      "url": "https://profilex-client.neokred.tech/mcp"
+    }
+  }
+}

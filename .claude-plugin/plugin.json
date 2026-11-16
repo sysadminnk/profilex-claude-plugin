@@ -1,0 +1,9 @@
+{
+  "name": "profilex",
+  "version": "1.0.0",
+  "description": "Run ProfileX KYC verification services from Claude. Sign in with your ProfileX account; results are returned in full.",
+  "author": { "name": "Neokred", "email": "support@neokred.tech" },
+  "homepage": "https://profilex-client.neokred.tech/docs/mcp",
+  "license": "MIT",
+  "keywords": ["kyc", "verification"]
+}

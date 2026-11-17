@@ -7,6 +7,7 @@
   "homepage": "https://profilex-client.neokred.tech/docs/mcp",
   "repository": "https://github.com/sysadminnk/profilex-claude-plugin",
   "privacyPolicyUrl": "https://profilex-client.neokred.tech/docs/mcp#privacy",
+  "termsOfServiceUrl": "https://www.neokred.tech/terms-and-conditions",
   "license": "MIT",
   "keywords": ["kyc", "verification"]
 }

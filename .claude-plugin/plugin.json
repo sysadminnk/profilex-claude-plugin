@@ -1,9 +1,12 @@
 {
   "name": "profilex",
-  "version": "1.0.0",
+  "displayName": "ProfileX",
+  "version": "1.0.1",
   "description": "Run ProfileX KYC verification services from Claude. Sign in with your ProfileX account; results are returned in full.",
-  "author": { "name": "Neokred", "email": "support@neokred.tech" },
+  "author": { "name": "Neokred", "email": "support@neokred.tech", "url": "https://www.neokred.tech" },
   "homepage": "https://profilex-client.neokred.tech/docs/mcp",
+  "repository": "https://github.com/sysadminnk/profilex-claude-plugin",
+  "privacyPolicyUrl": "https://profilex-client.neokred.tech/docs/mcp#privacy",
   "license": "MIT",
   "keywords": ["kyc", "verification"]
 }
